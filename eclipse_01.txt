@@ -9,3 +9,5 @@ This is edition section in file of eclipse_01.txt and was changing in Branch of 
 Test 2: Add this line from Local Branch: local
 
 Test 3: Add this line from Local Branch: local
+
+Test 4: Add this line from Local Branch: local
