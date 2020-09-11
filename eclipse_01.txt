@@ -4,7 +4,13 @@ this is another testing message
 
 Test message 2 
 
+ 
 
 
 This is edition section in file of eclipse_01.txt and was changing in Branch of local - This line was cut & paste from Local Branch: local
 
+ 
+This is edition section in file of eclipse_01.txt and was changing in Branch of local
+
+Test 2: Add this line from Local Branch: local
+ 
